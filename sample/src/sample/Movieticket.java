@@ -1,8 +1,5 @@
 package sample;
-//faf
 
-//fafa
-//fafa
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
